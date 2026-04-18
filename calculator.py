@@ -11,3 +11,4 @@ def calculator(a,b,operator):
         return "Invalid Input"
 cal = calculator(5,8,"a")
 print(cal)
+print("Done")
